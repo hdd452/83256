@@ -25,4 +25,4 @@
 为了确保你能顺畅地找到想要观看的内容，我们的界面设计简洁直观。首页展示最新更新和热门影片，每个视频页面都有详细的演员资料、影片简介和用户评论，帮助你做出更好的选择。平台的设计完全适配手机和电脑，无论你身处何地，都能轻松浏览并观看影片。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hdd452/83256 ）</span>
